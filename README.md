@@ -1,0 +1,1 @@
+This is a pricing assistant I made for an assignment in class
